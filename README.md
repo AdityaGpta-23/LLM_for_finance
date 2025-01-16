@@ -21,6 +21,11 @@ This project explores the application of local Large Language Models (LLMs) for 
 3. Load your transaction data in the required format.
 4. Run the provided scripts to categorize transactions and generate the dashboard.
 
+## Example Output
+
+![image](https://github.com/user-attachments/assets/18e3c2fd-e709-41fd-9f9c-14a7491c96da)
+
+
 ## Credits
 Inspired by [YouTuber's Project](https://www.youtube.com/watch?v=h_GTxRFYETY). This implementation adapts the concept to provide additional functionality and improved workflows.
 
